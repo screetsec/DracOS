@@ -8,7 +8,7 @@ Now Dracos currently already up to version 2.0 with the code name "Leak".
 
 # Teaser
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Pk9VzPGZdas" frameborder="0" allowfullscreen></iframe>
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://youtu.be/Pk9VzPGZdas)
 
 # As the target of development
 
